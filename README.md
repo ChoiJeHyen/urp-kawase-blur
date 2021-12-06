@@ -41,6 +41,9 @@ Masked shader variants can be used to blur UI elements with rounded corners prop
 Blur originally developed with Unity 2019.3.
 Demo scene & project restructure done with Unity 2020.1.
 
-추가 변경 사항
+### 추가 변경 사항
 UGUI Mask기능이 잘동작하도록 스텐실 버퍼를 추가한 셰이더작성.
-https://answers.unity.com/questions/980924/ui-mask-with-shader.html 참고.
+
+### 참고
+https://forum.unity.com/threads/shader-graph-ui-image-shader.628111/
+https://answers.unity.com/questions/980924/ui-mask-with-shader.html
